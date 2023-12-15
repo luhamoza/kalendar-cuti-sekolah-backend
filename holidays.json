@@ -1,0 +1,64 @@
+[
+  {
+    "group": "A",
+    "state": ["johor", "kedah", "kelantan", "terengganu"],
+    "session": "Sesi 2024/2025",
+    "holidays": [
+      {
+        "name": "Cuti Penggal 1",
+        "dateStart": "24/05/2024",
+        "dateEnd": "02/06/2024",
+        "totalDays": "10"
+      },
+      {
+        "name": "Cuti Penggal 2",
+        "dateStart": "13/09/2024",
+        "dateEnd": "21/09/2024",
+        "totalDays": "9"
+      },
+      {
+        "name": "Cuti Penggal 3",
+        "dateStart": "20/12/2024",
+        "dateEnd": "28/12/2024",
+        "totalDays": "9"
+      },
+      {
+        "name": "Cuti Akhir Persekolahan",
+        "dateStart": "17/01/2025",
+        "dateEnd": "15/02/2025",
+        "totalDays": "30"
+      }
+    ]
+  },
+  {
+    "group": "B",
+    "state": ["melaka", "negeri sembilan", "pahang", "perak", "perlis", "pulau pinang", "sabah", "sarawak", "selangor", "wilayah persekutuan kuala lumpur", "wilayah persekutuan labuan", "wilayah persekutuan putrajaya"],
+    "session": "Sesi 2024/2025",
+    "holidays": [
+      {
+        "name": "Cuti Penggal 1",
+        "dateStart": "25/05/2024",
+        "dateEnd": "02/06/2024",
+        "totalDays": "9"
+      },
+      {
+        "name": "Cuti Penggal 2",
+        "dateStart": "14/09/2024",
+        "dateEnd": "22/09/2024",
+        "totalDays": "9"
+      },
+      {
+        "name": "Cuti Penggal 3",
+        "dateStart": "21/09/2024",
+        "dateEnd": "29/12/2024",
+        "totalDays": "9"
+      },
+      {
+        "name": "Cuti Akhir Persekolahan",
+        "dateStart": "18/01/2025",
+        "dateEnd": "16/02/2025",
+        "totalDays": "30"
+      }
+    ]
+  }
+]
